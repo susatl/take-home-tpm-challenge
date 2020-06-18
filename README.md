@@ -4,7 +4,7 @@ We are a very practical team at Microsoft and this extends to the way that we wo
 
 So instead of answering at a whiteboard with someone watching over your shoulder under high pressure, which is not a thing we often do, we prefer to discuss the exercise below.
 
-As a TPM, we would like for you to review The Problem below and help to coordinate this project with the team.  Create a **simple backlog** including full detail of 3-4 of the more challenging workitems. In addition, create a **one-page project proposal** detailing the problem and proposed solution.
+As a TPM, we would like for you to review The Problem below and think about how you would prioritize and organize this project with an engineering team.  Create a **simple backlog** including full detail of 3-4 of the more challenging workitems. In addition, create a **one-page project proposal** detailing the problem and proposed solution.
 
 ## Guidelines
 
